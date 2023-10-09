@@ -1,7 +1,7 @@
-## I'm a beginner back-end developer. I'm skilled in a variety of technologies, including Kotlin, Java and Python.
+## I'm a beginner back-end developer
 
 Languages and tools
-
+![Telegram](https://img.shields.io/badge/-Telegram-black?style=for-the-badge&logoColor=telegram&logoColor=blue)
 Follow me
 
 <!--
