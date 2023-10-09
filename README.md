@@ -1,10 +1,10 @@
 ## I'm a beginner back-end developer
 
 ### 💻 Technologies:
-[![Kotlin](https://img.shields.io/badge/-Kotlin-black?style=for-the-badge&logo=Kotlin&logoColor=)](https://t.me/yaa1ina)
+[![Kotlin](https://img.shields.io/badge/-Kotlin-black?style=for-the-badge&logo=Kotlin&logoColor)]
 
 ### 🤝 Social media:
-![Telegram](https://img.shields.io/badge/-Telegram-black?style=for-the-badge&logo=telegram&logoColor=violet)
+[![Telegram](https://img.shields.io/badge/-Telegram-black?style=for-the-badge&logo=telegram&logoColor=blue)](https://t.me/yaa1ina)
 
 <!--
 **A1inka/a1inka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
