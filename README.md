@@ -1,12 +1,13 @@
 ![Header](https://github.com/A1inka/a1inka/blob/main/assets/pic.png)
 
-## I'm a beginner back-end Java developer
+## I'm a beginner Java back-end developer
 
 ### 💻 Technologies:
 ![Kotlin](https://img.shields.io/badge/-Kotlin-black?style=for-the-badge&logo=Kotlin&logoColor)
 ![Java](https://img.shields.io/badge/-Java-black?style=for-the-badge&logo=Java&logoColor)
 ![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=Python&logoColor)
 ![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=Git&logoColor)
+![Framework](https://img.shields.io/badge/-Framework-black?style=for-the-badge&logo=Framework&logoColor)
 
 ### 🤝 Social media:
 [![Telegram](https://img.shields.io/badge/-Telegram-black?style=for-the-badge&logo=telegram&logoColor)](https://t.me/yaa1ina)
