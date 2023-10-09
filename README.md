@@ -3,7 +3,7 @@
 ### Languages and tools
 
 ### Follow me
-[![Telegram](https://img.shields.io/badge/-Telegram-black?style=for-the-badge&logoColor=telegram&logoColor=blue)](https://t.me/yaa1ina)
+[![Telegram](https://img.shields.io/badge/-Telegram-black?style=for-the-badge&logo=telegram&logoColor=blue)](https://t.me/yaa1ina)
 
 
 <!--
