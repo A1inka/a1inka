@@ -3,9 +3,10 @@
 ### 💻 Technologies:
 ![Kotlin](https://img.shields.io/badge/-Kotlin-black?style=for-the-badge&logo=Kotlin&logoColor)
 ![Java](https://img.shields.io/badge/-Java-black?style=for-the-badge&logo=Java&logoColor)
+![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=Python&logoColor)
 
 ### 🤝 Social media:
-[![Telegram](https://img.shields.io/badge/-Telegram-black?style=for-the-badge&logo=telegram&logoColor=blue)](https://t.me/yaa1ina)
+[![Telegram](https://img.shields.io/badge/-Telegram-black?style=for-the-badge&logo=telegram&logoColor)](https://t.me/yaa1ina)
 
 <!--
 **A1inka/a1inka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
