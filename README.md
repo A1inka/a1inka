@@ -22,18 +22,5 @@ I'm a beginner back-end developer. I'm skilled in a variety of technologies, inc
 ![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=Git&logoColor)
 ![.Net](https://img.shields.io/badge/-Framework-black?style=for-the-badge&logo=.net&logoColor)
 
-### 🛠 Tools:
-![Photoshop](https://img.shields.io/badge/-Photoshop-black?style=for-the-badge&logo=Photoshop&logoColor)
-![Canva](https://img.shields.io/badge/-Canva-black?style=for-the-badge&logo=Canva&logoColor)
-
 ### 🤝 Social media:
 [![Telegram](https://img.shields.io/badge/-Telegram-black?style=for-the-badge&logo=telegram&logoColor)](https://t.me/yaa1ina)
-
-<!--
-**A1inka/a1inka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-I'm a beginner back-end developer. I'm skilled in a variety of technologies, including Kotlin, Java and Python. 
-💥 I can write clean code that is easy to understand, which is very important when reading the code and making changes to it by other developers.
-🤔 Problem-solving is one of my strengths, and I enjoy tackling challenging coding issues and finding elegant solutions to complex problems.
-🌟 Collaboration is key to my approach, and I thrive in team environments where I can learn from my peers and contribute to a shared vision.
-📫 If you are interested in working with me or just want to talk about front-end development, write to me:
--->
