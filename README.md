@@ -1,4 +1,5 @@
-## I'm a beginner back-end developer
+
+## I'm a beginner back-end Java developer
 
 ### 💻 Technologies:
 ![Kotlin](https://img.shields.io/badge/-Kotlin-black?style=for-the-badge&logo=Kotlin&logoColor)
