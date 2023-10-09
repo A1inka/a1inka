@@ -2,6 +2,7 @@
 
 ### 💻 Technologies:
 ![Kotlin](https://img.shields.io/badge/-Kotlin-black?style=for-the-badge&logo=Kotlin&logoColor)
+![Java](https://img.shields.io/badge/-Java-black?style=for-the-badge&logo=Java&logoColor)
 
 ### 🤝 Social media:
 [![Telegram](https://img.shields.io/badge/-Telegram-black?style=for-the-badge&logo=telegram&logoColor=blue)](https://t.me/yaa1ina)
