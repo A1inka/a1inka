@@ -1,8 +1,10 @@
 ## I'm a beginner back-end developer
 
-Languages and tools
+### Languages and tools
+
+### Follow me
 ![Telegram](https://img.shields.io/badge/-Telegram-black?style=for-the-badge&logoColor=telegram&logoColor=blue)
-Follow me
+
 
 <!--
 **A1inka/a1inka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
