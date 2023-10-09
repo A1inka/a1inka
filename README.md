@@ -4,6 +4,7 @@
 ![Kotlin](https://img.shields.io/badge/-Kotlin-black?style=for-the-badge&logo=Kotlin&logoColor)
 ![Java](https://img.shields.io/badge/-Java-black?style=for-the-badge&logo=Java&logoColor)
 ![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=Python&logoColor)
+![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=Git&logoColor)
 
 ### 🤝 Social media:
 [![Telegram](https://img.shields.io/badge/-Telegram-black?style=for-the-badge&logo=telegram&logoColor)](https://t.me/yaa1ina)
