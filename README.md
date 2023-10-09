@@ -2,7 +2,7 @@
 
 ## Hola, my name is Alina!
 
-### About me:
+### 💬 About me:
 
 I'm a beginner back-end developer. I'm skilled in a variety of technologies, including Kotlin, Java and Python. 💁‍♀️
 
@@ -23,4 +23,4 @@ I'm a beginner back-end developer. I'm skilled in a variety of technologies, inc
 ![.Net](https://img.shields.io/badge/-Framework-black?style=for-the-badge&logo=.net&logoColor)
 
 ### 🤝 Social media:
-[![Telegram](https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&logo=telegram&logoColor)](https://t.me/yaa1ina)
+[![Telegram](https://img.shields.io/badge/-Telegram-black?style=for-the-badge&logo=telegram&logoColor)](https://t.me/yaa1ina)
