@@ -14,7 +14,6 @@ I'm a beginner back-end developer. I'm skilled in a variety of technologies, inc
 
 • 📫 If you are interested in working with me or just want to talk about front-end development, write to me: [![Telegram](https://img.shields.io/badge/-Baranova_Alina-blue?style=for-the-badge&logo=telegram&logoColor)](https://t.me/yaa1ina)
 
-
 ### 💻 Technologies:
 ![Kotlin](https://img.shields.io/badge/-Kotlin-black?style=for-the-badge&logo=Kotlin&logoColor)
 ![Java](https://img.shields.io/badge/-Java-black?style=for-the-badge&logo=Java&logoColor)
