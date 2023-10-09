@@ -1,4 +1,8 @@
-### Hi, my name is Alina! 👋
+## I'm a beginner back-end developer. I'm skilled in a variety of technologies, including Kotlin, Java and Python.
+
+Languages and tools
+
+Follow me
 
 <!--
 **A1inka/a1inka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
