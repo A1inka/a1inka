@@ -1,3 +1,4 @@
+[![Header](https://github.com/A1inka/a1inka/blob/main/assets/pic.png)]
 
 ## I'm a beginner back-end Java developer
 
