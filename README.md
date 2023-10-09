@@ -1,7 +1,7 @@
 ## I'm a beginner back-end developer
 
 ### 💻 Technologies:
-[![Kotlin](https://img.shields.io/badge/-Kotlin-black?style=for-the-badge&logo=Kotlin&logoColor)]
+![Kotlin](https://img.shields.io/badge/-Kotlin-black?style=for-the-badge&logo=Kotlin&logoColor)
 
 ### 🤝 Social media:
 [![Telegram](https://img.shields.io/badge/-Telegram-black?style=for-the-badge&logo=telegram&logoColor=blue)](https://t.me/yaa1ina)
