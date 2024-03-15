@@ -18,10 +18,6 @@ I'm a beginner developer. I'm skilled in a variety of technologies, including Ko
 ![Java](https://img.shields.io/badge/-Java-black?style=for-the-badge&logo=Java&logoColor)
 ![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=Python&logoColor)
 ![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=Git&logoColor)
-![.Net](https://img.shields.io/badge/-Framework-black?style=for-the-badge&logo=.net&logoColor)
-![.HTML](https://img.shields.io/badge/-HTML-black?style=for-the-badge&logo=.net&logoColor)
-![.CSS](https://img.shields.io/badge/-CSS-black?style=for-the-badge&logo=.net&logoColor)
-![.JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=.net&logoColor)
 
 ### 🤝 Social media:
 [![Telegram](https://img.shields.io/badge/-Telegram-black?style=for-the-badge&logo=telegram&logoColor)](https://t.me/mmmalinam)
