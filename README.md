@@ -1,5 +1,3 @@
-![Header](https://github.com/A1inka/a1inka/blob/main/assets/pic.png)
-
 ## Hola, I'm Alina! 👋
 
 ### 💬 About me:
