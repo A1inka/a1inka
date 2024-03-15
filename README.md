@@ -1,10 +1,10 @@
 ![Header](https://github.com/A1inka/a1inka/blob/main/assets/pic.png)
 
-## Hola, my name is Alina!
+## Hola, I'm Alina! 👋
 
 ### 💬 About me:
 
-I'm a beginner back-end developer. I'm skilled in a variety of technologies, including Kotlin, Java and Python. 💁‍♀️
+I'm a beginner developer. I'm skilled in a variety of technologies, including Kotlin, Java, Python, C/C++, HTML/CSS and JS. 💁‍♀️
 
 • 💥 I can write clean code that is easy to understand, which is very important when reading the code and making changes to it by other developers.
 
@@ -12,7 +12,6 @@ I'm a beginner back-end developer. I'm skilled in a variety of technologies, inc
 
 • 🌟 Collaboration is key to my approach, and I thrive in team environments where I can learn from my peers and contribute to a shared vision.
 
-• 📫 If you are interested in working with me or just want to talk about front-end development, write to me: [![Telegram](https://img.shields.io/badge/-Baranova_Alina-blue?style=for-the-badge&logo=telegram&logoColor)](https://t.me/yaa1ina)
 
 ### 💻 Technologies:
 ![Kotlin](https://img.shields.io/badge/-Kotlin-black?style=for-the-badge&logo=Kotlin&logoColor)
@@ -20,6 +19,9 @@ I'm a beginner back-end developer. I'm skilled in a variety of technologies, inc
 ![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=Python&logoColor)
 ![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=Git&logoColor)
 ![.Net](https://img.shields.io/badge/-Framework-black?style=for-the-badge&logo=.net&logoColor)
+![.HTML](https://img.shields.io/badge/-HTML-black?style=for-the-badge&logo=.net&logoColor)
+![.CSS](https://img.shields.io/badge/-CSS-black?style=for-the-badge&logo=.net&logoColor)
+![.JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=.net&logoColor)
 
 ### 🤝 Social media:
-[![Telegram](https://img.shields.io/badge/-Telegram-black?style=for-the-badge&logo=telegram&logoColor)](https://t.me/yaa1ina)
+[![Telegram](https://img.shields.io/badge/-Telegram-black?style=for-the-badge&logo=telegram&logoColor)](https://t.me/mmmalinam)
