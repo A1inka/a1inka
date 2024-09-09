@@ -25,4 +25,4 @@ I'm a beginner frontend developer. I study HTML/CSS and JS. 💁‍♀️
 </div>
 
 ### 🤝 Social media:
-[![Telegram](https://img.shields.io/badge/-Telegram-black?style=for-the-badge&logo=telegram&logoColor)](https://t.me/mmmalinam)
+[![Telegram](https://img.shields.io/badge/-Telegram-white?style=for-the-badge&logo=telegram&logoColor)](https://t.me/mmmalinam)
