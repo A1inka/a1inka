@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://i.pinimg.com/originals/ff/d9/b4/ffd9b46366e14141790a80d4922485bf.gif"/>
 
-  ## Hola, I'm Alina! 👋
+  ## Hey there, I'm Alina! 👋
 </div>
 
 ### 💬 About me:
@@ -25,4 +25,8 @@ I'm a beginner frontend developer. I study HTML/CSS and JS. 💁‍♀️
 </div>
 
 ### 🤝 Social media:
-[![Telegram](https://img.shields.io/badge/-Telegram-orange?style=for-the-badge&logo=telegram&logoColor)](https://t.me/mmmalinam)
+<div id="badges">
+  <a href="https://t.me/mmmalinam" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram group" />
+  </a>
+</div>
