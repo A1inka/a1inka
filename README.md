@@ -6,7 +6,7 @@
 
 ### 💬 About me:
 
-I'm a beginner developer. I'm skilled in a variety of technologies, including Kotlin, Java, Python, C/C++, HTML/CSS and JS. 💁‍♀️
+I'm a beginner frontend developer. I study HTML/CSS and JS. 💁‍♀️
 
 • 💥 I can write clean code that is easy to understand, which is very important when reading the code and making changes to it by other developers.
 
@@ -16,10 +16,13 @@ I'm a beginner developer. I'm skilled in a variety of technologies, including Ko
 
 
 ### 💻 Technologies:
-![Kotlin](https://img.shields.io/badge/-Kotlin-black?style=for-the-badge&logo=Kotlin&logoColor)
-![Java](https://img.shields.io/badge/-Java-black?style=for-the-badge&logo=Java&logoColor)
-![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=Python&logoColor)
-![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=Git&logoColor)
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="html5" alt="html5" width="40" height="40"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="css" alt="css" width="40" height="40"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="javascript" alt="javascript" width="40" 
+  height="40"/>&nbsp
+</div>
 
 ### 🤝 Social media:
 [![Telegram](https://img.shields.io/badge/-Telegram-black?style=for-the-badge&logo=telegram&logoColor)](https://t.me/mmmalinam)
